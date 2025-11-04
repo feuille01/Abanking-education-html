@@ -9,7 +9,6 @@
 body {
     background-color: #1E252B;
     font-family: 'Poppins';
-    /* Уточнён шрифт */
 }
 
 .top-header {
@@ -483,3 +482,4 @@ body {
     filter: blur(100px);
 
 }
+
